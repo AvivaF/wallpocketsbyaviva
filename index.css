@@ -1,0 +1,16 @@
+body{
+	background-image: url('./images/mainback2.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%; 
+}
+
+.home{
+	font-size: 30px;
+	font-family: courier;
+}
+
+
+.page{
+	background-color: #FCF9C9; 
+
+}
