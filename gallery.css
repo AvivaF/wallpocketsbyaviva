@@ -1,8 +1,38 @@
 
-h5{
-  color:white;
-  letter-spacing: 1px;
+body{
+  background-color: #99C68E; 
 }
+
+.home{
+   font-size: 30px;
+  font-family: courier;
+}
+
+
+h5{
+  color:black;
+  background-color:#ebfeeb;  
+  border-radius: 10px;
+  opacity:50%;
+  font-family: verdana;
+  padding:5px;
+  
+
+}
+
+.img-thumbnail{
+  height:300px;
+  width:270px;
+  margin:5px;
+  padding: 3px;
+}
+
+.btn{
+  background-color: #f2f2e5;
+  border-color: silver;  
+}
+
+/*<!---begin copied stuff--> */
 
 .hovereffect {
   width: 100%;
